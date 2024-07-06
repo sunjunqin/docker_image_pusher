@@ -1,7 +1,8 @@
+mysql:8.1.0
 #sonatype/nexus3
 #p3terx/aria2-pro
 #gitlab/gitlab-ce:latest
-mysql/mysql-server
+#mysql/mysql-server
 #phanan/koel
 #cloudreve/cloudreve:latest
 #支持私库
