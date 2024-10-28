@@ -1,4 +1,5 @@
-mysql:8.1.0
+openresty/openresty
+#mysql:8.1.0
 #sonatype/nexus3
 #p3terx/aria2-pro
 #gitlab/gitlab-ce:latest
